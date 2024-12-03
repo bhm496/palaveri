@@ -1,0 +1,12 @@
+{
+    "palaveri": {
+        "aihe": "Projektin kehityspalaveri",
+        "osallistujat": {
+            "lukumaara": 5,
+            "nimet": ["Mikko Mallikas", "Anna Malli", "Esa Merkki", "Liisa Näyte", "Kalle Koe"]
+        },
+        "paikka": "Neuvotteluhuone A, Helsinki",
+        "alkamisaika": "2024-12-05T10:00:00",
+        "kesto": "1h 30min"
+    }
+}
